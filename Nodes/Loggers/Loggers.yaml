@@ -105,8 +105,8 @@ Children:
   - Name: SamplingPeriod
     Type: PropertyType
     DataType: Duration
-    Value: "0:00:00:00.1000000"
+    Value: "0:00:00:01.0000000"
   - Name: PollingPeriod
     Type: PropertyType
     DataType: Duration
-    Value: "0:00:00:00.1000000"
+    Value: "0:00:00:00.5000000"
